@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **akhiljacob1/akhiljacob1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Full-stack Rails Developer with a passion for startups. Skilled in Ruby on Rails and Tailwind. Experienced in building, testing and scaling web applications from ideation to launch.
+
+🌇 At work, I'm building an app that uses AI to provide deep insights from form feedback.
+
+🌃 On the side, I'm working on a personal project that brings value to the food industry.
+
+I'm looking for new opportunities where I can contribute to a project while furthering my own skills.
