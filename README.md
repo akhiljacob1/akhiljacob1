@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 Full-stack Rails Developer with a passion for startups. Skilled in Ruby on Rails and Tailwind. Experienced in building, testing and scaling web applications from ideation to launch.
 
-🌇 At work, I'm building an app that uses AI to provide deep insights from form feedback.
-
-🌃 On the side, I'm working on a personal project that brings value to the food and hospitality industry.
+🌱 I'm building a gamified habit tracker to help with people build discipline.
 
 I'm looking for new opportunities where I can contribute to a project while furthering my own skills.
